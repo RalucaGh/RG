@@ -74,6 +74,7 @@ In this unit we used jupyter notebooks to modify the parameters and observe how 
 ![modified](assets/ml/u3n1modified.png)
 
 You can check the rest of the experiments below:
+
 [Unit 3 Notebook 1](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex1covariance_pearson_correlation_done.ipynb)
 
 2. Linear regression - Below you can see the changes to the linear regression due to adding of random noise:
@@ -83,6 +84,7 @@ You can check the rest of the experiments below:
 ![modified](assets/ml/u3n1modified.png)
 
 You can check the rest of the experiments below:
+
 [Unit 3 Notebook 2](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex2linear_regression_done.ipynb)
 
 
@@ -118,7 +120,7 @@ In this activity we were asdked to perform K-mean Clustering on a dataset.
 
 Full code below:
 
-[Unit 6](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit6done.ipynb)
+[Unit 6 Notebook](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit6done.ipynb)
 
 
 ## Unit 7: Perceptron Activities
