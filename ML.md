@@ -237,7 +237,27 @@ Final model and model performance:
 
 ## Individual Reflection
 
+At the start of the module, my knowledge of machine learning was limited to using Language Models such as ChatGPT. Engaging in this module has offered me both the technical skills and insights required to understand the field at a deeper level. 
 
+During the first three modules, the collaborative discussion introduced both the advantages and disadvantages as well as the ethical dilemmas that the field is riddled with. It was interesting to see the subtle way the world is shaped with the help of different machine learning models, and to grasp at the dangers of over-relying on technology. The cascading effect on whole populations truly highlights the need for robust testing and contingency planning- both processes that directly apply to machine learning models, where errors and biases can result in significant consequences.
 
+The exercise in Unit 2 was focused on pre-processing data and Exploratory Data Analysis. This exercise showed me the importance of good EDA techniques in identifying patterns in the data. Whilst I completed the exercises, I now recognize the need to improve my ability to create visually appealing and informative plots to better communicate insights. 
+
+The exercise in Unit 3 was focussed on modifying parameters and observing the impact this has on the correlation between variables, as well as on regression. In Unit 4, we looked at practical applications of scikit-learn for correlation and regression. Looking back, the exercise in unit three and the reading in unit four helped me understand hyperparameter tuning and how small changes can have big impacts. 
+Unit 5 was focussed on different types of clustering, techniques and evaluating clusters introducing me to unsupervised learning. The exercise in this unit was focused on calculating Jaccard coefficients. Despite the challenges posed by the mathematics behind clustering, I gained valuable insights into how to interpret cluster evaluation metrics and their real-world applications.
+
+In Unit 6, we have submitted a group project where I contributed by creating plot variations for diversity, performing multiple regression analyses, and implementing random forest algorithms. This exercise was particularly useful to get hands on experience with using basic machine learning techniques, as well as highlighting the value of different perspectives. Aside from this I also completed the K-means clustering exercise which was a great way to apply the knowledge gained in the previous unit. 
+
+Unit 7 was an introduction to Artificial Neural Networks and the mathematics behind the multilevel perceptron and the different types of activation functions. The Perceptron activities were useful to clarify the concepts and show the practical applications. It was interesting to see how mathematical concepts can be applied in a practical manner. Unit 8 was a continuation of this, focused on model training and backpropagation and it was exciting to see how models learn and what we can do to make them more efficient. In this unit we also looked at ethical views on ANN applications, which further developed and build upon the discussion in Unit 1. 
+
+The exercise in Unit 9 further looked at ethics but in the case of facial recognition software. This discussion was the most interesting of them as it provided a broader perspective on the societal implications of machine learning models. The other exercise in this module was a CIFAR-10 model whereby we had to make a prediction. The CNN was continued in unit 10, where the reading list helped me deepen my knowledge especially around hyperparameter tuning.
+In unit eleven, we looked at model performance and how to evaluate performance. This was especially useful for the Individual development Project, where we had to build, deploy and tune an object recognition model based on the CIFAR-10 dataset. Without using a pre-trained model, I managed to get my model at 85% accuracy with little overfitting which was major turning point in my learning journey, as I had never developed such a model from scratch. Finally, the last unit gave insight on the future on machine learning.
+
+This module had a profound impact on my professional development. The technical knowledge and hands-on experience gained throughout the course have significantly enhanced my capabilities in machine learning. I now feel confident in building, deploying, and evaluating models, as well as in identifying areas for improvement through hyperparameter tuning and performance metrics.
+The emphasis on ethics has shaped my approach to machine learning projects. The collaborative discussion helped me understand the importance of transparency, fairness, and accountability in algorithm development. Furthermore, I also developed a solid understanding of the mathematical aspects behind different models which in turn helped me better understand their limitation. The development projects showed me how important is to keep the development clean and keep track of all the parameter changes.
+
+Some of improvement areas noted throughout this module are the need for more understanding of hyperparameter tuning, the need for advanced data visualisation techniques, and limited understanding of the mathematics behind it. Going forward I plan to further explore Matplotlib and Seaborn, do further reading in model training and take a Mathematics course to brush on my knowledge. 
+
+###[Home]
  
 
