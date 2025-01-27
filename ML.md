@@ -162,6 +162,7 @@ Another concern is data quality and bias. Poorly cleansed or biased data can lea
 Whilst AI offers a range of benefits across various domains, its unregulated implementation poses ethical risks, including bias, transparency issues, and data privacy concerns. As AI technologies like robo-writers become increasingly prevalent, careful consideration of these challenges is essential to ensure responsible use and equitable impact.  
 
 Reference list:
+
 Arena, C. (2022). 7 Disadvantages of Artificial Intelligence Everyone Should Know About. [online] Liberties.eu. Available at: https://www.liberties.eu/en/stories/disadvantages-of-artificial-intelligence/44289.
 China, C. (2024). Artificial Intelligence Advantages & Disadvantages. IBM. [online] Ibm.com. Available at: https://www.ibm.com/think/insights/artificial-intelligence-advantages-disadvantages.
 European Council. (2024). Benefits and risks of AI. [online] Available at: https://www.consilium.europa.eu/en/policies/benefits-and-risks-of-ai/#benefits.
