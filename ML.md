@@ -57,7 +57,7 @@ Replace categorical values with numerical values (i.e., America 1, Europe 2 etc.
 
 ![bigd](assets/ml/Screenshot 2025-01-27 at 09.56.18.png)
 
-All code can be found here: [View My Notebook](https://RG.github.io/assets/ml/unit2ML .ipynb)
+All code can be found here: [View My Notebook](https://RalucaGh.github.io/RG/assets/ml/unit2ML .ipynb)
 
 
 
