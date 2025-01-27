@@ -116,7 +116,7 @@ In this unit we learned how to calculate the Jaccard Coefficient
 ## Unit 6: Development Team Projectg
 During this unit we submitted a Development Team Project where we were asked to complete an analytical report. 
 
-You can find the report here and the Jupyter notebook here. 
+You can find the report [here](assets/ml/TeamProjectReport.docx) and the Jupyter notebook [here]([Unit 6 Notebook](https://github.com/RalucaGH/RG/blob/main/assets/ml/exploratory_analysis_edited_4.ipynb)
 
 ## Unit 6: K-Means Clustering
 In this activity we were asdked to perform K-mean Clustering on a dataset. 
