@@ -70,6 +70,7 @@ In this unit we used jupyter notebooks to modify the parameters and observe how 
 1. Pearson correlation - Below you can see the changes to the correlation due to changing of covariance:
    
 ![original](assets/ml/u3n1original.png) 
+
 ![modified](assets/ml/assets/ml/u3n1modified.png)
 
 You can check the rest of the experiments below:
@@ -78,6 +79,7 @@ You can check the rest of the experiments below:
 2. Linear regression - Below you can see the changes to the linear regression due to adding of random noise:
    
 ![original](assets/ml/u3e2original.png)
+
 ![modified](assets/ml/assets/ml/u3n1modified.png)
 
 You can check the rest of the experiments below:
