@@ -67,17 +67,29 @@ All code can be found here:
 ## Unit 3: Correlation and Regression
 In this unit we used jupyter notebooks to modify the parameters and observe how the changes in data affects correlation and regression.
 
-1. Pearson correlation - Below you can see the changes to the correlation due to changing of covariance
-[Unit 3 Notebook 1](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex1covariance_pearson_correlation_done.ipynb)
-
+1. Pearson correlation - Below you can see the changes to the correlation due to changing of covariance:
+   
 ![original](assets/ml/u3n1original.png) 
 ![modified](assets/ml/assets/ml/u3n1modified.png)
 
+You can check the rest of the experiments below:
+[Unit 3 Notebook 1](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex1covariance_pearson_correlation_done.ipynb)
+
+2. Linear regression - Below you can see the changes to the linear regression due to adding of random noise:
+   
+![original](assets/ml/u3e2original.png)
+![modified](assets/ml/assets/ml/u3n1modified.png)
+
+You can check the rest of the experiments below:
 [Unit 3 Notebook 2](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex2linear_regression_done.ipynb)
 
 
+3. Multiple Linear regression - Below you can see the changes to the multiple linear regression:
+
 [Unit 3 Notebook 3](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex3multiple_linear_regressiondone.ipynb)
 
+4. Polynomial regression - Below you can see the changes to the polynomial regression:
+5. 
 [Unit 3 Notebook 4](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex4polynomial_regression_done.ipynb)
 
 ## Units 4: Linear Regression with Scikit-Learn
