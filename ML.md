@@ -44,11 +44,11 @@ Plots for different parameters:
 
 ![bigd](assets/ml/Screenshot 2025-01-27 at 09.44.06.png)
 
-![bigd](assets/mlScreenshot 2025-01-27 at 09.44.14.png)
+![bigd](assets/ml/Screenshot 2025-01-27 at 09.44.14.png)
 
 ![bigd](assets/ml/Screenshot 2025-01-27 at 09.44.21.png)
 
-![bigd](assets/ml/ML_assets/Screenshot 2025-01-27 at 09.44.40.png)
+![bigd](assets/ml/Screenshot 2025-01-27 at 09.44.40.png)
 
 ![bigd](assets/ml/Screenshot 2025-01-27 at 09.44.51.png)
 
@@ -71,7 +71,7 @@ In this unit we used jupyter notebooks to modify the parameters and observe how 
    
 ![original](assets/ml/u3n1original.png) 
 
-![modified](assets/ml/assets/ml/u3n1modified.png)
+![modified](assets/ml/u3n1modified.png)
 
 You can check the rest of the experiments below:
 [Unit 3 Notebook 1](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex1covariance_pearson_correlation_done.ipynb)
@@ -80,7 +80,7 @@ You can check the rest of the experiments below:
    
 ![original](assets/ml/u3e2original.png)
 
-![modified](assets/ml/assets/ml/u3n1modified.png)
+![modified](assets/ml/u3n1modified.png)
 
 You can check the rest of the experiments below:
 [Unit 3 Notebook 2](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex2linear_regression_done.ipynb)
@@ -91,7 +91,7 @@ You can check the rest of the experiments below:
 [Unit 3 Notebook 3](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex3multiple_linear_regressiondone.ipynb)
 
 4. Polynomial regression - Below you can see the changes to the polynomial regression:
-5. 
+   
 [Unit 3 Notebook 4](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex4polynomial_regression_done.ipynb)
 
 ## Units 4: Linear Regression with Scikit-Learn
@@ -99,9 +99,11 @@ You can check the rest of the experiments below:
 
 ## Unit 5: Jaccard Coefficient Calculations
 
+In this unit we learned how to calculate the Jaccard Coefficient
+
 ![modified](assets/ml/assets/ml/Unit5.png)
 
-![modified](assets/ml/assets/ml/unit5calcs.png)
+![modified](assets/ml/unit5calcs.png)
 
 ## Unit 6: K-Means Clustering
 
