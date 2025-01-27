@@ -1,8 +1,4 @@
----
-layout: _post
-title: "Machine learning"
-toc: true
----
+
 
 ### Machine Learning
 
