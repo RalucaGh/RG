@@ -1,11 +1,4 @@
-# Data Science portfolio
 
----
-layout: post
-title: "My Post"
-toc: true
-toc_levels: [1, 2, 3]
----
 
 # Education
 I am a curious individual that loves to learn anything and everything. This has led to the following expensive hobby:
