@@ -1,5 +1,10 @@
 ### Machine Learning
 
+
+<div class="toc">
+  {{ content | toc }}
+</div>
+
 ## Learning Outcomes 
 1. Articulate the legal, social, ethical and professional issues faced by machine learning professionals.
 2. Understand the applicability and challenges associated with different datasets for the use of machine learning algorithms.
