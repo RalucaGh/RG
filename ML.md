@@ -90,6 +90,7 @@ You can check the rest of the experiments below:
 
 [Unit 3 Notebook 3](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex3multiple_linear_regressiondone.ipynb)
 
+
 4. Polynomial regression - Below you can see the changes to the polynomial regression:
    
 [Unit 3 Notebook 4](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex4polynomial_regression_done.ipynb)
@@ -101,7 +102,7 @@ You can check the rest of the experiments below:
 
 In this unit we learned how to calculate the Jaccard Coefficient
 
-![modified](assets/ml/assets/ml/Unit5.png)
+![modified](assets/ml/Unit5.png)
 
 ![modified](assets/ml/unit5calcs.png)
 
