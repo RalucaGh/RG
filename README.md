@@ -14,4 +14,4 @@ Previously I have worked as an Area Coordinator for large Online Retailer where 
 
 # Projects:
 
-## Machine Learning(https://github.com/RalucaGh/RG/ML.md)
+## Machine Learning <a href="ML.md"</a>
