@@ -12,3 +12,6 @@ I currently work with a national charity that specialises in communication and l
 
 Previously I have worked as an Area Coordinator for large Online Retailer where I managed the day to day operations and a team of 35 to ensure a smooth running of business. 
 
+# Projects:
+
+## Machine Learning(ML.md)
