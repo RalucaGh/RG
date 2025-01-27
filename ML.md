@@ -258,6 +258,6 @@ The emphasis on ethics has shaped my approach to machine learning projects. The 
 
 Some of improvement areas noted throughout this module are the need for more understanding of hyperparameter tuning, the need for advanced data visualisation techniques, and limited understanding of the mathematics behind it. Going forward I plan to further explore Matplotlib and Seaborn, do further reading in model training and take a Mathematics course to brush on my knowledge. 
 
-###[Home](README.md)
+### [Home](README.md)
  
 
