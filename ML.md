@@ -8,8 +8,11 @@
 
 ## Units 1-3: Collaborative Discussion 1 
 Schwab (2016) argues that the Fourth Industrial Revolution will fundamentally alter the way we exist and that the response to it needs to be integrated, comprehensive, and inclusive of all relevant stakeholders. He also argues that the speed of these breakthroughs has no historical precedent (Schwab, 2016). This is evident in the increasing reliance on technology, particularly telecommunication and the internet. Millions of people are now connected to the internet via mobile phones augmented with AI, forming a complex structural web (Schwab, 2016). 
+
 The critical dependence on the Internet of Things (IoT) was illustrated during one of the most significant telecommunication outages in recent Australian history. In 2023, ten million Optus users were left without phone coverage or internet (Sharwood, 2023; Farrer & Taylor, 2023). The outage had far-reaching consequences, halting key government services such as transport and health (Farrer & Taylor, 2023) and disrupting SMS authentication and payment systems (Clark, 2024). It was reported that 228 triple-0 emergency calls could not connect, leaving individuals unable to contact emergency services (Williams, 2023).
+
 The fallout from the outage was extensive, leading to the government reconsidering contracts with Optus (Farrer & Taylor, 2023), the resignation of the company’s CEO, a $40 million financial loss, 2% decline in business, and multiple investigations into the incident (Clark, 2024). The outage was attributed to a botched software update caused by human error, resulting in a cascading failure when routing information exceeded preset safety levels on key routers. Experts noted that more robust testing processes, such as internal system tests and router evaluations, could have prevented the incident (Gregory, 2023; Page, 2023).
+
 Furthermore, an inquiry by the Australian Senate revealed that Optus had no contingency plan for large-scale outages (Page, 2023). The review emphasized the need for the Australian Government to improve oversight of telecommunication providers, especially concerning emergency services, and to establish stronger protocols for responding to national service outages (Australian Government, 2024).
 
 The Optus outage highlights the vulnerabilities of modern societies reliance on IoT and telecommunication networks. It highlights the importance of robust testing protocols, effective contingency plans, and proactive government oversight to prevent and mitigate the consequences of such failures. 
@@ -129,9 +132,43 @@ Full code below:
 
 ## Unit 8-10: Legal and Ethical views on ANN applications
 
-## Unit 9: CNN Model Activity
+In the past decade, the use of AI has grown significantly, with Salminen and Mauladhika (2025) describing it as "an indispensable part of our digital and professional lives." AI integration into daily life has brought numerous advantages, including improved efficiency and productivity, enhanced customer experiences, ease of generating quality content, and increased data-driven decision-making. AI's ability to identify patterns has led to greater automation across industries. For instance, in healthcare, AI aids in diagnosing and treating diseases, while in public safety, it is used to improve security and detect crime. The energy industry employs AI to boost efficiency, and it also plays a crucial role in fraud detection and prevention (Google, 2024).  
+
+However, despite its many benefits, unregulated AI implementation raises significant ethical concerns (European Council, 2024). One of the primary issues is the lack of transparency regarding AI algorithms and training data. Machine learning (ML) models often function as "black boxes," where the inputs and outputs are visible, but the internal decision-making processes within hidden layers remain opaque (China, 2024).  
+
+Another concern is data quality and bias. Poorly cleansed or biased data can lead to harmful outcomes, particularly for underrepresented communities (Arena, 2022; European Council, 2024; Hutson, 2021). These issues are exacerbated by the absence of robust regulations and safeguards, which also raise serious concerns about data privacy (Arena, 2022; European Council, 2024).  
+Whilst AI offers a range of benefits across various domains, its unregulated implementation poses ethical risks, including bias, transparency issues, and data privacy concerns. As AI technologies like robo-writers become increasingly prevalent, careful consideration of these challenges is essential to ensure responsible use and equitable impact.  
+
+Reference list
+1.	Arena, C. (2022). 7 Disadvantages of Artificial Intelligence Everyone Should Know About. [online] Liberties.eu. Available at: https://www.liberties.eu/en/stories/disadvantages-of-artificial-intelligence/44289.
+2.	China, C. (2024). Artificial Intelligence Advantages & Disadvantages | IBM. [online] Ibm.com. Available at: https://www.ibm.com/think/insights/artificial-intelligence-advantages-disadvantages.
+3.	European Council. (2024). Benefits and risks of AI. [online] Available at: https://www.consilium.europa.eu/en/policies/benefits-and-risks-of-ai/#benefits.
+4.	Google (2024). Applications of Artificial Intelligence (AI). [online] Google Cloud. Available at: https://cloud.google.com/discover/ai-applications.
+5.	Hutson, M. (2021). Robo-writers: the rise and risks of language-generating AI. Nature, [online] 591(7848), pp.22–25. doi:https://doi.org/10.1038/d41586-021-00530-0.
+6.	Salminen, M. and Mauladhika, B.F. (2023). AI statistics and trends: New research for 2025. [online] Hostinger Tutorials. Available at: https://www.hostinger.com/tutorials/ai-statistics?gad_source=1&gbraid=0AAAAADMy-hZZAKuLXk7X_LCvwUlCzr75O&gclid=EAIaIQobChMI0piq9ZyUiwMVhZJQBh13kxp7EAAYASAAEgImUfD_BwE [Accessed 26 Jan. 2025].
+
+
+## Unit 9: Social implications of CNN technology
+
+Facial recognition technology refers to software that identifies individuals by comparing their facial features to a database of digital images or videos (BSIA, 2021). While this technology offers potential benefits, such as enhanced public safety and policing, and has been described as "a technology designed to improve the safety and well-being of people" (Home Office, 2021), it raises significant ethical concerns.  
+
+Wall (2019) highlights that facial recognition systems have a high error rate, particularly when identifying individuals from diverse demographics. Leslie (2020) further argues that such software can infringe on civil liberties and basic human rights, perpetuating structural racism and marginalization. Almeida et al. (2021) emphasize that using these systems without accountability for flawed or biased algorithms can exacerbate victimization and discrimination of underrepresented communities, eroding trust in law enforcement agencies. 
+
+A notable example of these issues is the case of *R. (Bridges) v. Chief Constable of South Wales Police [2020], where the Court of Appeal ruled that the use of facial recognition technology was unlawful as it violated the right to privacy under the Human Rights Act (1998) and the Data Protection Act (2018) (Gov.uk, n.d). Moreover, advancements in models capable of recognizing partially covered faces risk infringing on individuals’ right to opt out of surveillance (Gov.uk, n.d).  
+
+While facial recognition technology holds promise for improving public safety, its ethical implications—including biases, infringement on civil liberties, and privacy violations—highlight the need for strict accountability, transparency, and regulation to ensure its responsible and equitable use.  
+Reference list
+1.	Almeida, D., Shmarko, K. and Lomas, E. (2021). The ethics of facial recognition technologies, surveillance, and accountability in an age of artificial intelligence: a comparative analysis of US, EU, and UK regulatory frameworks. AI and Ethics, 2(3), pp.377–387. doi:https://doi.org/10.1007/s43681-021-00077-w.
+2.	BSIA (2021). Automated Facial Recognition A guide to ethic al a nd leg al use. [online] British Security Industry Association. Available at: https://www.bsia.co.uk/zappfiles/bsia-front/pdf2024/347-automated-facial-recognition-a-guide-to-ethical-and-legal-use.pdf.
+3.	GOV.UK. (n.d.). Briefing note on the ethical issues arising from public–private collaboration in the use of live facial recognition technology (accessible). [online] Available at: https://www.gov.uk/government/publications/public-private-use-of-live-facial-recognition-technology-ethical-issues/briefing-note-on-the-ethical-issues-arising-from-public-private-collaboration-in-the-use-of-live-facial-recognition-technology-accessible.
+4.	Home Office (2021). Automated Facial Recognition: ethical and legal use. [online] GOV.UK. Available at: https://www.gov.uk/government/publications/automated-facial-recognition-ethical-and-legal-use.
+5.	Leslie, D. (2020). Understanding Bias in Facial Recognition Technologies. The Alan Turing Institute. [online] doi:https://doi.org/10.5281/zenodo.4050457.
+6.	Wall, M. (2019). Biased and wrong? Facial recognition tech in the dock. BBC News. [online] 8 Jul. Available at: https://www.bbc.co.uk/news/business-48842750.
 
 ## Unit 10: CNN Tutorial
+
+During running the CNN notebook, I had to do two minor changes in the code as predict_classes was removed from TensorFlow as well as changing the code for the plots for the predictions as it was throwing out errors. I plotted 5 different images with their predictions and the model got the images right 4 out of 5 times. This is reasonable for an accuracy of 65%. The model does well for some classes (airplane, automobile, horse, ship, truck (over 70% accuracy) but performs really poorly for cat and dog (less than 50% accuracy). The model is also overfitting. This can be mitigated with data augmentation, cross-validation and further hyperparameter tuning. 
+
 
 ## Unit 11: Model Performance Measurement
 
