@@ -30,34 +30,34 @@ In this unit we were encouraged to perform EDA on the Auto-MPG dataset:
 
 Identify missing values:
 
-![bigd](RalucaGh.github.io/assets/ML_assets/Screenshot 2025-01-27 at 09.42.40.png)
+![bigd](assets/ml/Screenshot 2025-01-27 at 09.42.40.png)
 
 Estimate Skewness and Kurtosis:
 
-![bigd](RalucaGh.github.io/assets/assets/ML_assets/Screenshot 2025-01-27 at 09.43.33.png)
+![bigd](assets/ml/Screenshot 2025-01-27 at 09.43.33.png)
 
 Correlation Heat Map:
 
-![bigd](RalucaGh.github.io/assets/ML_assets/Screenshot 2025-01-27 at 09.43.49.png)
+![bigd](assets/ml/Screenshot 2025-01-27 at 09.43.49.png)
 
 Scatter plot for different parameters:
 
-![bigd](RalucaGh.github.io/assets/ML_assets/Screenshot 2025-01-27 at 09.44.06.png)
+![bigd](assets/ml/Screenshot 2025-01-27 at 09.44.06.png)
 
-![bigd](RalucaGh.github.io/assets/ML_assets/Screenshot 2025-01-27 at 09.44.14.png)
+![bigd](assets/mlScreenshot 2025-01-27 at 09.44.14.png)
 
-![bigd](RalucaGh.github.io/assets/ML_assets/Screenshot 2025-01-27 at 09.44.21.png)
+![bigd](assets/ml/Screenshot 2025-01-27 at 09.44.21.png)
 
-![bigd](RalucaGh.github.io/assets/ML_assets/Screenshot 2025-01-27 at 09.44.40.png)
+![bigd](assets/ml/ML_assets/Screenshot 2025-01-27 at 09.44.40.png)
 
-![bigd](RalucaGh.github.io/assets/ML_assets/Screenshot 2025-01-27 at 09.44.51.png)
+![bigd](assets/ml/Screenshot 2025-01-27 at 09.44.51.png)
 
 
 Replace categorical values with numerical values (i.e., America 1, Europe 2 etc.):
 
-![bigd](RalucaGh.github.io/assets/ML_assets/Screenshot 2025-01-27 at 09.56.18.png)
+![bigd](assets/ml/Screenshot 2025-01-27 at 09.56.18.png)
 
-All code can be found here: [View My Notebook](https://RalucaGh.github.io/assets/ML_assets/unit2ML.ipynb)
+All code can be found here: [View My Notebook](https://RG.github.io/assets/ml/unit2ML .ipynb)
 
 
 
