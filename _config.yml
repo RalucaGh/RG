@@ -3,3 +3,5 @@ title: Raluca Ghioculescu
 description: Portfolio
 show_downloads: false
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-toc
