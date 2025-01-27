@@ -59,14 +59,15 @@ Replace categorical values with numerical values (i.e., America 1, Europe 2 etc.
 
 All code can be found here: 
 
-[Unit 2 Notebook](https://github.com/RalucaGH/RG/blob/assets/ml/unit2ML.ipynb)
+[Unit 2 Notebook](https://github.com/RalucaGH/RG/blob/main/assets/ml/unit2ML.ipynb)
+
 
 
 
 ## Unit 3: Correlation and Regression
 In this unit we used jupyter notebooks to modify the parameters and observe how the changes in data affects correlation and regression.
 
-[Unit 3 Notebook 1](https://github.com/RalucaGH/RG/blob/assets/ml/Unit03 Ex1 covariance_pearson_correlation_done.ipynb)
+[Unit 2 Notebook](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex1covariance_pearson_correlation_done.ipynb)
 
 
 ## Units 4: Linear Regression with Scikit-Learn
