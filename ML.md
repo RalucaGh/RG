@@ -113,7 +113,7 @@ In this unit we learned how to calculate the Jaccard Coefficient
 
 ![modified](assets/ml/unit5calcs.png)
 
-## Unit 6: Development Team Projectg
+## Unit 6: Development Team Project
 During this unit we submitted a Development Team Project where we were asked to complete an analytical report. 
 
 You can find the report [here](assets/ml/TeamProjectReport.docx) and the Jupyter notebook [here]([Unit 6 Notebook](https://github.com/RalucaGH/RG/blob/main/assets/ml/exploratory_analysis_edited_4.ipynb)
