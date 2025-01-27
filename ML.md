@@ -59,7 +59,7 @@ Replace categorical values with numerical values (i.e., America 1, Europe 2 etc.
 
 All code can be found here: 
 
-[View My Notebook](https://RalucaGh.github.io/RG/assets/ml/unit2ML .ipynb)
+[View My Notebook](assets/ml/unit2ML .ipynb)
 
 
 
