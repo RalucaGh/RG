@@ -67,8 +67,13 @@ All code can be found here:
 ## Unit 3: Correlation and Regression
 In this unit we used jupyter notebooks to modify the parameters and observe how the changes in data affects correlation and regression.
 
-[Unit 2 Notebook](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex1covariance_pearson_correlation_done.ipynb)
+[Unit 3 Notebook 1](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex1covariance_pearson_correlation_done.ipynb)
 
+[Unit 3 Notebook 2](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex2linear_regression_done.ipynb)
+
+[Unit 3 Notebook 3](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex3multiple_linear_regressiondone.ipynb)
+
+[Unit 3 Notebook 4](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex4polynomial_regression_done.ipynb)
 
 ## Units 4: Linear Regression with Scikit-Learn
 
