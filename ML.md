@@ -1,8 +1,7 @@
 ---
-layout: post
-title: "My Post"
+layout: _post
+title: "Machine learning"
 toc: true
-toc_levels: [1, 2, 3]
 ---
 
 ### Machine Learning
