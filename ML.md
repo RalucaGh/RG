@@ -106,7 +106,17 @@ In this unit we learned how to calculate the Jaccard Coefficient
 
 ![modified](assets/ml/unit5calcs.png)
 
+## Unit 6: Development Team Projectg
+During this unit we submitted a Development Team Project where we were asked to complete an analytical report. 
+
+You can find the report here and the Jupyter notebook here. 
+
 ## Unit 6: K-Means Clustering
+In this activity we were asdked to perform K-mean Clustering on a dataset. 
+![modified](assets/ml/u6k-mean.png)
+
+Full code below:
+[Unit 6](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit6done.ipynb)
 
 
 ## Unit 7: Perceptron Activities
