@@ -99,7 +99,9 @@ You can check the rest of the experiments below:
 
 ## Unit 5: Jaccard Coefficient Calculations
 
-![modified](assets/ml/assets/ml/u3n1modified.png)
+![modified](assets/ml/assets/ml/Unit5.png)
+
+![modified](assets/ml/assets/ml/unit5calcs.png)
 
 ## Unit 6: K-Means Clustering
 
