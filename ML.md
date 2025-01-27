@@ -67,7 +67,10 @@ All code can be found here:
 ## Unit 3: Correlation and Regression
 In this unit we used jupyter notebooks to modify the parameters and observe how the changes in data affects correlation and regression.
 
+1. Pearson correlation - Below you can see the changes to the correlation due to changing of covariance
 [Unit 3 Notebook 1](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex1covariance_pearson_correlation_done.ipynb)
+
+![original](assets/ml/u3n1original.png) -> ![original](assets/ml/assets/ml/u3n1modified.png)
 
 [Unit 3 Notebook 2](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex2linear_regression_done.ipynb)
 
