@@ -202,11 +202,23 @@ During running the CNN notebook, I had to do two minor changes in the code as pr
 
 Full code below:
 
-[Unit 7 Notebook 3](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit09Ex1ConvolutionalNeuralNetworks(CNN)-ObjectRecognition.ipynb)
+[Unit 9 Notebook](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit09Ex1ConvolutionalNeuralNetworks(CNN)-ObjectRecognition.ipynb)
 
 
 ## Unit 11: Model Performance Measurement
+This activity involved changing the parameters and observing how the model performs:
 
+![bigd](assets/ml/Screenshot13.png)
+
+![bigd](assets/ml/Screenshot12.png)
+
+![bigd](assets/ml/Screenshot14.png)
+
+![bigd](assets/ml/Screenshot15.png)
+
+Full code below:
+
+[Unit 11 Notebook](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit11_model_Performance_Measurement.ipynb)
 
 ## Unit 12: Future of Machine Learning
 
