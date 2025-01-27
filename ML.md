@@ -1,9 +1,11 @@
+---
+layout: post
+title: "My Post"
+toc: true
+toc_levels: [1, 2, 3]
+---
+
 ### Machine Learning
-
-
-<div class="toc">
-  {{ content | toc }}
-</div>
 
 ## Learning Outcomes 
 1. Articulate the legal, social, ethical and professional issues faced by machine learning professionals.
