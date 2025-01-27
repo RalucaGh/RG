@@ -30,27 +30,27 @@ In this unit we were encouraged to perform EDA on the Auto-MPG dataset:
 
 Identify missing values:
 
-![bigd](assets/ml/Screenshot 2025-01-27 at 09.42.40.png)
+![bigd](assets/ml/Screenshot1.png)
 
 Estimate Skewness and Kurtosis:
 
-![bigd](assets/ml/Screenshot 2025-01-27 at 09.43.33.png)
+![bigd](assets/ml/Screenshot2.png)
 
 Correlation Heat Map:
 
-![bigd](assets/ml/Screenshot 2025-01-27 at 09.43.49.png)
+![bigd](assets/ml/Screenshot3.png)
 
 Plots for different parameters:
 
-![bigd](assets/ml/Screenshot 2025-01-27 at 09.44.06.png)
+![bigd](assets/ml/Screenshot4.png)
 
-![bigd](assets/ml/Screenshot 2025-01-27 at 09.44.14.png)
+![bigd](assets/ml/Screenshot5.png)
 
-![bigd](assets/ml/Screenshot 2025-01-27 at 09.44.21.png)
+![bigd](assets/ml/Screenshot6.png)
 
-![bigd](assets/ml/Screenshot 2025-01-27 at 09.44.40.png)
+![bigd](assets/ml/Screenshot7.png)
 
-![bigd](assets/ml/Screenshot 2025-01-27 at 09.44.51.png)
+![bigd](assets/ml/Screenshot8.png)
 
 
 Replace categorical values with numerical values (i.e., America 1, Europe 2 etc.):
