@@ -102,8 +102,6 @@ You can check the rest of the experiments below:
    
 [Unit 3 Notebook 4](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit03Ex4polynomial_regression_done.ipynb)
 
-## Units 4: Linear Regression with Scikit-Learn
-
 
 ## Unit 5: Jaccard Coefficient Calculations
 
@@ -219,6 +217,21 @@ This activity involved changing the parameters and observing how the model perfo
 Full code below:
 
 [Unit 11 Notebook](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit11_model_Performance_Measurement.ipynb)
+
+
+## Unit 11: Individual Development project on CIFAR-10
+
+This unit also contained an individual development project. Final model performance below:
+
+![bigd](assets/ml/Screenshot16.png)
+
+![bigd](assets/ml/Screenshot17.png)
+
+Full training process:
+[Unit 11 Notebook CNN](https://github.com/RalucaGH/RG/blob/main/assets/ml/CNN.ipynb)
+
+Final model and model performance:
+[Unit 11 Notebook Final CNN and performance](https://github.com/RalucaGH/RG/blob/main/assets/ml/CNNChosenmodelplusmodelperformance.ipynb)
 
 ## Unit 12: Future of Machine Learning
 
