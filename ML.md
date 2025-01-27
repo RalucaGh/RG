@@ -164,11 +164,11 @@ Whilst AI offers a range of benefits across various domains, its unregulated imp
 Reference list:
 
 1.	Arena, C. (2022). 7 Disadvantages of Artificial Intelligence Everyone Should Know About. [online] Liberties.eu. Available at: https://www.liberties.eu/en/stories/disadvantages-of-artificial-intelligence/44289.
-2.	 China, C. (2024). Artificial Intelligence Advantages & Disadvantages | IBM. [online] Ibm.com. Available at: https://www.ibm.com/think/insights/artificial-intelligence-advantages-disadvantages.
-4.	European Council. (2024). Benefits and risks of AI. [online] Available at: https://www.consilium.europa.eu/en/policies/benefits-and-risks-of-ai/#benefits.
-5.	Google (2024). Applications of Artificial Intelligence (AI). [online] Google Cloud. Available at: https://cloud.google.com/discover/ai-applications.
-6.	Hutson, M. (2021). Robo-writers: the rise and risks of language-generating AI. Nature, [online] 591(7848), pp.22–25. doi:https://doi.org/10.1038/d41586-021-00530-0.
-7.	Salminen, M. and Mauladhika, B.F. (2023). AI statistics and trends: New research for 2025. [online] Hostinger Tutorials. Available at: https://www.hostinger.com/tutorials/ai-statistics?gad_source=1&gbraid=0AAAAADMy-hZZAKuLXk7X_LCvwUlCzr75O&gclid=EAIaIQobChMI0piq9ZyUiwMVhZJQBh13kxp7EAAYASAAEgImUfD_BwE [Accessed 26 Jan. 2025].
+2.	China, C. (2024). Artificial Intelligence Advantages & Disadvantages | IBM. [online] Ibm.com. Available at: https://www.ibm.com/think/insights/artificial-intelligence-advantages-disadvantages.
+3.	European Council. (2024). Benefits and risks of AI. [online] Available at: https://www.consilium.europa.eu/en/policies/benefits-and-risks-of-ai/#benefits.
+4.	Google (2024). Applications of Artificial Intelligence (AI). [online] Google Cloud. Available at: https://cloud.google.com/discover/ai-applications.
+5.	Hutson, M. (2021). Robo-writers: the rise and risks of language-generating AI. Nature, [online] 591(7848), pp.22–25. doi:https://doi.org/10.1038/d41586-021-00530-0.
+6.	Salminen, M. and Mauladhika, B.F. (2023). AI statistics and trends: New research for 2025. [online] Hostinger Tutorials. Available at: https://www.hostinger.com/tutorials/ai-statistics?gad_source=1&gbraid=0AAAAADMy-hZZAKuLXk7X_LCvwUlCzr75O&gclid=EAIaIQobChMI0piq9ZyUiwMVhZJQBh13kxp7EAAYASAAEgImUfD_BwE [Accessed 26 Jan. 2025].
 
 
 ## Unit 9: Social implications of CNN technology
@@ -258,6 +258,6 @@ The emphasis on ethics has shaped my approach to machine learning projects. The 
 
 Some of improvement areas noted throughout this module are the need for more understanding of hyperparameter tuning, the need for advanced data visualisation techniques, and limited understanding of the mathematics behind it. Going forward I plan to further explore Matplotlib and Seaborn, do further reading in model training and take a Mathematics course to brush on my knowledge. 
 
-###[Home]
+###[Home](README.md)
  
 
