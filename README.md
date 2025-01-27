@@ -14,5 +14,5 @@ Previously I have worked as an Area Coordinator for large Online Retailer where 
 
 # Projects:
 
-## [Machine Learning:](ML.md)
+## [Machine Learning](ML.md)
 
