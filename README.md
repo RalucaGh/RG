@@ -14,4 +14,6 @@ Previously I have worked as an Area Coordinator for large Online Retailer where 
 
 # Projects:
 
-## Machine Learning ([(https://ralucagh.github.io/RG/ML.md))
+## Machine Learning
+[View ML](ML.md)
+
