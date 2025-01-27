@@ -235,7 +235,7 @@ Full training process:
 Final model and model performance:
 [Unit 11 Notebook Final CNN and performance](https://github.com/RalucaGH/RG/blob/main/assets/ml/CNNChosenmodelplusmodelperformance.ipynb)
 
-## Unit 12: Future of Machine Learning
+## Individual Reflection
 
 
 
