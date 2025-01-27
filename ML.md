@@ -50,12 +50,12 @@ Plots for different parameters:
 
 ![bigd](assets/ml/Screenshot7.png)
 
-![bigd](assets/ml/Screenshot8.png)
+
 
 
 Replace categorical values with numerical values (i.e., America 1, Europe 2 etc.):
 
-![bigd](assets/ml/Screenshot 2025-01-27 at 09.56.18.png)
+![bigd](assets/ml/Screenshot8.png)
 
 All code can be found here: 
 
