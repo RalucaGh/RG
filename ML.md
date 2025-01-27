@@ -168,8 +168,7 @@ Reference list:
 3.	European Council. (2024). Benefits and risks of AI. [online] Available at: https://www.consilium.europa.eu/en/policies/benefits-and-risks-of-ai/#benefits.
 4.	Google (2024). Applications of Artificial Intelligence (AI). [online] Google Cloud. Available at: https://cloud.google.com/discover/ai-applications.
 5.	Hutson, M. (2021). Robo-writers: the rise and risks of language-generating AI. Nature, [online] 591(7848), pp.22–25. doi:https://doi.org/10.1038/d41586-021-00530-0.
-6.	Salminen, M. and Mauladhika, B.F. (2023). AI statistics and trends: New research for 2025. [online] Hostinger Tutorials.
-Available at: https://www.hostinger.com/tutorials/ai-statistics?gad_source=1&gbraid=0AAAAADMy-hZZAKuLXk7X_LCvwUlCzr75O&gclid=EAIaIQobChMI0piq9ZyUiwMVhZJQBh13kxp7EAAYASAAEgImUfD_BwE.
+6.	Salminen, M. and Mauladhika, B.F. (2023). AI statistics and trends: New research for 2025. [online] Hostinger Tutorials. Available at: https://www.hostinger.com/tutorials/ai-statistics?gad_source=1&gbraid=0AAAAADMy-hZZAKuLXk7X_LCvwUlCzr75O&gclid=EAIaIQobChMI0piq9ZyUiwMVhZJQBh13kxp7EAAYASAAEgImUfD_BwE.
 
 
 ## Unit 9: Social implications of CNN technology
