@@ -128,6 +128,16 @@ Full code below:
 
 ## Unit 7: Perceptron Activities
 
+Exercise 1 Simple Perceptron: Changing the input values from [45, 25] to [20, 75]; and the weights from [- 0.7, 0.1]  to: [0.8, 0.3] resulted in neuron activation. Keeping the same inputs: [45, 25] but changing the weights to [1.0, 0.5] resulted in the neuron not being activated. 
+
+Full code below: 
+
+[Unit 7 Notebook 1](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit07Ex1simple_perceptron.ipynb)
+
+[Unit 7 Notebook 2](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit07Ex2perceptron_AND_operator.ipynb)
+
+[Unit 7 Notebook 3](https://github.com/RalucaGH/RG/blob/main/assets/ml/Unit07Ex3multi-layerPerceptron.ipynb)
+
 ## Unit 8: Gradient Cost Function
 
 ## Unit 8-10: Legal and Ethical views on ANN applications
